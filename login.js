@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
             window.location.href = "pro-student2.html";
             break;
           case "student2":
-            window.location.href = "student.html";
+            window.location.href = "PRO student.html";
             break;
           case "facultym":
             window.location.href = "FacultyMember.html";
